@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.25.5",
+    "@slidev/theme-apple-basic": "^0.20.0",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*",
+    "slidev-theme-dracula": "^0.0.1",
+    "slidev-theme-penguin": "^1.1.2"
+  },
+  "name": "20210925lt"
+}
